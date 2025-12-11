@@ -1,16 +1,47 @@
-## Hi there 👋
+# Shan Li Chin | Recent Computer Science Graduate
 
-<!--
-**shanlichin2021/shanlichin2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **B.S. Computer Science & Minor in Cybersecurity (2025)**
 
-Here are some ideas to get you started:
+A **recent Computer Science graduate** focused on leveraging **Generative AI** and modern full-stack frameworks (**ReactJS, Vue.js, FastAPI**) to develop robust technical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Core Technical Stack
+
+This table exclusively lists skills relevant to software development, data science, and cybersecurity.
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, C, C++, SQL, NoSQL |
+| **Web Frameworks** | ReactJS, Vue.js, Vite, HTML, CSS, FastAPI |
+| **Development** | AI/ML Development, Generative AI, Data Structures & Algorithms, Full-Stack Development, Agile Methodologies |
+| **Specialization** | Data Analysis, Cybersecurity |
+
+---
+
+### Projects
+
+#### 1. Japanese OCR Tool
+* **Focus:** An overlay utility that captures and processes Japanese text on-screen.
+* **Implementation:** Engineered a custom-built OCR model to process input and seamlessly transfer recognized content to the clipboard for immediate translation.
+* **Timeline:** August 2025 - September 2025.
+* **Repository:** [shanlichin2021/Japanese-OCR-Tool](https://github.com/shanlichin2021/Japanese-OCR-Tool)
+
+#### 2. Right-To-Know (An AI/LLM Auditing Tool)
+* **Focus:** An AI/LLM auditing tool created to ensure post-training transparency.
+* **Implementation:** Engineered robust architecture featuring seamless prompt processing and an intuitive form-like interface for streamlined evaluation. Built with a **Python backend and ReactJS frontend**.
+* **Timeline:** August 2024 - April 2025.
+* **Repository:** [shanlichin2021/Right-to-Know-Demo](https://github.com/shanlichin2021/Right-to-Know-Demo)
+
+#### 3. ML Japanese Analysis Tool
+* **Focus:** A machine learning-driven Japanese analysis tool.
+* **Features:** Integrates **OCR-based text extraction**, multi-source **NLP consensus techniques**, and an interactive dictionary to facilitate advanced linguistic exploration.
+* **Timeline:** June 2025 - July 2025.
+* **Repository:** [shanlichin2021/ML-Japanese-Analysis-Tool](https://github.com/shanlichin2021/JPLT)
+
+---
+
+### 🎓 Education & Credentials
+
+* **Florida Atlantic University:** Bachelor of Science in Computer Science, **Minor in Cybersecurity** (2025).
+* **Certifications:** CodePath Cybersecurity (Dec 2024), CodePath Web Development (May 2024).
