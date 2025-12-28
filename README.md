@@ -6,7 +6,7 @@ A **recent Computer Science graduate** focused on leveraging **Generative AI** a
 
 ---
 
-### 🚀 Core Technical Stack
+### Core Technical Stack
 
 This table exclusively lists skills relevant to software development, data science, and cybersecurity.
 
@@ -41,7 +41,7 @@ This table exclusively lists skills relevant to software development, data scien
 
 ---
 
-### 🎓 Education & Credentials
+### Education & Credentials
 
 * **Florida Atlantic University:** Bachelor of Science in Computer Science, **Minor in Cybersecurity** (2025).
 * **Certifications:** CodePath Cybersecurity (Dec 2024), CodePath Web Development (May 2024).
