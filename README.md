@@ -1,4 +1,4 @@
-# Shan Li Chin | Recent Computer Science Graduate
+# Shan Li Chin | Computer Science Graduate
 
 ### **B.S. Computer Science & Minor in Cybersecurity (2025)**
 
