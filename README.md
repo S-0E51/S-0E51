@@ -25,7 +25,7 @@ This table exclusively lists skills relevant to software development, data scien
 * **Focus:** An overlay utility that captures and processes Japanese text on-screen.
 * **Implementation:** Engineered a custom-built OCR model to process input and seamlessly transfer recognized content to the clipboard for immediate translation.
 * **Timeline:** August 2025 - September 2025.
-* **Repository:** [shanlichin2021/Japanese-OCR-Tool](https://github.com/shanlichin2021/Japanese-OCR-Tool)
+* **Repository:** [shanlichin2021/Japanese-OCR-Tool](https://github.com/shanlichin2021/Japanese-OCR)
 
 #### 2. Right-To-Know (An AI/LLM Auditing Tool)
 * **Focus:** An AI/LLM auditing tool created to ensure post-training transparency.
