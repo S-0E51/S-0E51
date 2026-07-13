@@ -12,7 +12,7 @@ This table exclusively lists skills relevant to software development, data scien
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, C, C++, SQL, NoSQL |
+| **Languages** | Python, JavaScript, TypeScript, C, C++ |
 | **Web Frameworks** | ReactJS, Vue.js, Vite, HTML, CSS, FastAPI |
 | **Development** | AI/ML Development, Generative AI, Data Structures & Algorithms, Full-Stack Development, Agile Methodologies |
 | **Specialization** | Data Analysis, Cybersecurity |
