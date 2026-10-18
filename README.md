@@ -1,47 +1,66 @@
-# Shan Li Chin | Computer Science Graduate
+# Shan Li Chin
 
-### **B.S. Computer Science & Minor in Cybersecurity (2025)**
+Computer science graduate with a minor in cybersecurity, exploring opportunities in
+**full-stack development, data science and analysis, and IT**.
 
-A **recent Computer Science graduate** focused on leveraging **Generative AI** and modern full-stack frameworks (**ReactJS, Vue.js, FastAPI**) to develop robust technical solutions.
+[Portfolio](https://s-0e51.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/shan-li-chin) ·
+[Email](mailto:shanlichin@live.com)
 
----
+## About me
 
-### Core Technical Stack
+I'm curious about how technology works and what I can build with it. I enjoy turning
+ideas into projects and learning through hands-on experimentation.
 
-This table exclusively lists skills relevant to software development, data science, and cybersecurity.
+In my free time, I like tinkering with tools and building small projects that make
+everyday tasks easier. I also enjoy gaming, drawing, and learning about Japanese
+culture and language.
 
-| Category | Key Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, C, C++ |
-| **Web Frameworks** | ReactJS, Vue.js, Vite, HTML, CSS, FastAPI |
-| **Development** | AI/ML Development, Generative AI, Data Structures & Algorithms, Full-Stack Development, Agile Methodologies |
-| **Specialization** | Data Analysis, Cybersecurity |
+## Selected projects
 
----
+### Sakatsu Reader — A Japanese Study Tool
 
-### Projects
+**July 2026–Present · Public repository pending**
 
-#### 1. Japanese OCR Tool
-* **Focus:** An overlay utility that captures and processes Japanese text on-screen.
-* **Implementation:** Engineered a custom-built OCR model to process input and seamlessly transfer recognized content to the clipboard for immediate translation.
-* **Timeline:** August 2025 - September 2025.
-* **Repository:** [shanlichin2021/Japanese-OCR-Tool](https://github.com/shanlichin2021/Japanese-OCR)
+A personal desktop app bringing together my earlier text-learning and OCR demos.
+Combines screen and clipboard capture, OCR, Japanese text analysis, dictionary
+lookups, and local machine translation. Built with Rust, Tauri, Svelte, and TypeScript.
 
-#### 2. Right-To-Know (An AI/LLM Auditing Tool)
-* **Focus:** An AI/LLM auditing tool created to ensure post-training transparency.
-* **Implementation:** Engineered robust architecture featuring seamless prompt processing and an intuitive form-like interface for streamlined evaluation. Built with a **Python backend and ReactJS frontend**.
-* **Timeline:** August 2024 - April 2025.
-* **Repository:** [shanlichin2021/Right-to-Know-Demo](https://github.com/shanlichin2021/Right-to-Know-Demo)
+### [Japanese OCR Tool Demo](https://github.com/S-0E51/daisho-ocr)
 
-#### 3. ML Japanese Analysis Tool
-* **Focus:** A machine learning-driven Japanese analysis tool.
-* **Features:** Integrates **OCR-based text extraction**, multi-source **NLP consensus techniques**, and an interactive dictionary to facilitate advanced linguistic exploration.
-* **Timeline:** June 2025 - July 2025.
-* **Repository:** [shanlichin2021/ML-Japanese-Analysis-Tool](https://github.com/shanlichin2021/JPLT)
+**July 2026**
 
----
+A Python and PyQt6 Windows demo for capturing Japanese text, running OCR, and
+sending results to the clipboard or a customized japReader companion. A precursor
+to Sakatsu Reader.
 
-### Education & Credentials
+### [Japanese Text Learning Tool (JPLT) Demo](https://github.com/S-0E51/JPLT)
 
-* **Florida Atlantic University:** Bachelor of Science in Computer Science, **Minor in Cybersecurity** (2025).
-* **Certifications:** CodePath Cybersecurity (Dec 2024), CodePath Web Development (May 2024).
+**June–August 2025**
+
+A Vue.js, Node.js, and FastAPI demo combining OCR, Japanese text analysis, dictionary
+data, and grammar explanations. An earlier foundation for Sakatsu Reader.
+
+### [Right-to-Know Demo — An AI auditing tool](https://github.com/S-0E51/Right-to-Know-Demo)
+
+**Senior Capstone Project · August 2024–April 2025**
+
+A React and Flask web app exploring model auditing through LLM prompts, responses,
+and conversation history, with Ollama integration.
+
+## Technologies I've worked with
+
+| Area                            | Technologies                                                                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Full-stack development          | HTML, CSS, JavaScript, TypeScript, SvelteKit, React, Vue.js, Flask, FastAPI, Node.js, Express, SQLite, RESTful APIs |
+| Desktop development             | Rust, Tauri, Svelte, Python, PyQt6                                                                                  |
+| Machine learning & AI workflows | NLP, computer vision & OCR, machine translation, PyTorch, Hugging Face Transformers, ONNX Runtime, Ollama           |
+| Data & model evaluation         | NumPy, pandas, scikit-learn, model evaluation & benchmarking                                                        |
+| Cybersecurity tools             | Splunk, Burp Suite, Wireshark, Nmap                                                                                 |
+| Systems & development tools     | Docker, Linux, PowerShell, Git                                                                                      |
+
+## Education & training
+
+- **Florida Atlantic University:** B.S. in Computer Science, minor in Cybersecurity (2025).
+- **CodePath — Intro to Web Development:** December 2024.
+- **CodePath — Intro to Cybersecurity:** May 2024.
